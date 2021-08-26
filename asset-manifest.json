@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/blog-react.git/static/css/main.a68c65a8.chunk.css",
+    "main.js": "/blog-react.git/static/js/main.6cf11dcb.chunk.js",
+    "main.js.map": "/blog-react.git/static/js/main.6cf11dcb.chunk.js.map",
+    "runtime-main.js": "/blog-react.git/static/js/runtime-main.600fe87b.js",
+    "runtime-main.js.map": "/blog-react.git/static/js/runtime-main.600fe87b.js.map",
+    "static/js/2.8cf4df37.chunk.js": "/blog-react.git/static/js/2.8cf4df37.chunk.js",
+    "static/js/2.8cf4df37.chunk.js.map": "/blog-react.git/static/js/2.8cf4df37.chunk.js.map",
+    "index.html": "/blog-react.git/index.html",
+    "static/css/main.a68c65a8.chunk.css.map": "/blog-react.git/static/css/main.a68c65a8.chunk.css.map",
+    "static/js/2.8cf4df37.chunk.js.LICENSE.txt": "/blog-react.git/static/js/2.8cf4df37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.600fe87b.js",
+    "static/js/2.8cf4df37.chunk.js",
+    "static/css/main.a68c65a8.chunk.css",
+    "static/js/main.6cf11dcb.chunk.js"
+  ]
+}
